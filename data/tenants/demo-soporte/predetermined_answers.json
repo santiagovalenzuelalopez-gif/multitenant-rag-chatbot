@@ -1,0 +1,13 @@
+{
+  "keywords": [
+    { "keyword": "horario de atención", "answer_key": "horarios" },
+    { "keyword": "horario", "answer_key": "horarios" },
+    { "keyword": "contacto", "answer_key": "contacto" }
+  ],
+  "menu_options": { "1": "horarios", "2": "contacto" },
+  "answers": {
+    "horarios": "📌 Atendemos de lunes a viernes de 8:00 a 17:00 y sábados de 9:00 a 13:00.",
+    "contacto": "📌 Escríbenos a soporte@example.com o llama al +57 000 000 0000.",
+    "consultar_ticket_datos": "🔎 Para consultar tu ticket necesito dos datos: el número (por ejemplo TCK-100001) y el código de verificación que recibiste al crearlo."
+  }
+}

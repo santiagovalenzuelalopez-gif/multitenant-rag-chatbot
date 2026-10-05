@@ -1,0 +1,5 @@
+{
+  "active": true,
+  "file_search_store_name": null,
+  "capabilities": { "tools": { "consultar_ticket": true } }
+}

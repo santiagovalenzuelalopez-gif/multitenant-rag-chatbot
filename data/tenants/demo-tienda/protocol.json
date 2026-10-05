@@ -1,0 +1,4 @@
+{
+  "rules": ["Responde solo sobre pedidos, envíos y devoluciones de Tienda Cumbre."],
+  "formatting": { "plain_text": true }
+}

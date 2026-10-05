@@ -1,0 +1,9 @@
+services:
+  chatbot:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      ENVIRONMENT: local
+      TENANT_BACKEND: filesystem
+      LLM_BACKEND: mock

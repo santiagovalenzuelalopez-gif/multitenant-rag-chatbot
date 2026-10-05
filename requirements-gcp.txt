@@ -1,0 +1,4 @@
+# Modo productivo: Gemini + File Search y registro de tenants en Firestore
+-r requirements.txt
+google-genai==2.14.0
+google-cloud-firestore==2.20.0
